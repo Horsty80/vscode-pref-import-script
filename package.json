@@ -1,0 +1,16 @@
+{
+  "name": "vscode-pref-import-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "Cyril Hue",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.0.4",
+    "vitest": "^0.31.1"
+  }
+}
